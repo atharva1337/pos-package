@@ -1,3 +1,7 @@
+## Summary
+
+This Python package facilitates part-of-speech (POS) tagging for input sentences, utilizing advanced generative AI technologies. The package is designed to enhance natural language processing (NLP) capabilities by accurately identifying the grammatical categories of each word within a given sentence.
+
 ## Installation
 
 ### Click on the link given below
