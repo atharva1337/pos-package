@@ -14,3 +14,8 @@ This Python package facilitates part-of-speech (POS) tagging for input sentences
 ### To install the package, use pip
 
 pip install your-package-name
+
+### To use pos-tagging functionality
+
+Use following command :
+tagging(your_api_key)
