@@ -11,12 +11,11 @@ with open(r"\pos-package\README.md", "r") as fh:
     
 setup(
     name = 'pos_tagging',
-    version = '0.6.1',
+    version = '0.6.5',
     packages = find_packages(),
     install_requires = [
         # add dependencies here
-        'langchain-google-genai>=2.0.0'
-
+        'langchain-google-genai>=2.0.0',
     ],
     entry_points = {
         'console_scripts': [
